@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "WinterYesterday";
+    src: url("../../font/WinterYesterday.ttf");
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.textForWatching {
+    font-family: "WinterYesterday", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(4, 0, 255);
+}
